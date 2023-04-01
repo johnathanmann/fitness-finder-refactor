@@ -1,0 +1,16 @@
+#homepage h1 {
+    font-family: "antique-olive-compact", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    font-size: 50px;
+    align-self: center;
+}
+
+#homepage h2 {
+    font-family: "antique-olive-compact", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    align-self: center;
+}
